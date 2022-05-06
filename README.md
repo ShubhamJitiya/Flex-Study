@@ -1,6 +1,6 @@
-# Flex-Study (Android Application Solution)
-For Students: An Android Application for students/parents to find tutors near their locality.
-For Teachers: An Android Application for teachers to find students near their locality.
+# Flex-Study (Home Tutoring Application)
+
+Flex-Study provides the solution for students/parents to find tutors and for teachers to find students near their locality.
 
 In this project, we have developed two android applications using Firebase as cloud platform and used Java for programming and XML for designing.
 Soon, these applications will be published on PlayStore.
