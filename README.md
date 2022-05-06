@@ -6,5 +6,5 @@ In this project, we have developed two android applications using Firebase as cl
 Soon, these applications will be published on PlayStore.
 
 Developers:
-    1. Shubham Jitiya (jitiya66@gmail.com)
-    2. Shyam Sartanpara (shyamsar30@gmail.com)
+    Shubham Jitiya (jitiya66@gmail.com) & 
+    Shyam Sartanpara (shyamsar30@gmail.com)
